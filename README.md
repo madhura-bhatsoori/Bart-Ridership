@@ -1,5 +1,5 @@
 # BART Time and Fare Calculator
-Welcome to the BART Time and Fare Calculator repository! This application provides a convenient way to calculate the travel time and fare between any two BART (Bay Area Rapid Transit) stations.
+Welcome to BART Time and Fare Calculator repository! This application provides a convenient way to calculate the travel time and fare between any two BART (Bay Area Rapid Transit) stations.
 
 # Overview
 The BART Time and Fare Calculator consists of a Flask application that connects to a Neo4j graph database. It utilizes the "shortest path" algorithm to determine the optimal route between the selected source and destination stations. The application provides real-time data and accurate fare calculations based on the BART fare system.
